@@ -1,4 +1,5 @@
-﻿ using UnityEngine;
+﻿using System.Collections;
+using UnityEngine;
 #if ENABLE_INPUT_SYSTEM 
 using UnityEngine.InputSystem;
 #endif
@@ -112,6 +113,7 @@ namespace StarterAssets
         private CharacterController _controller;
         private StarterAssetsInputs _input;
         private GameObject _mainCamera;
+        private TrailRenderer _trailRenderer;
 
         private const float _threshold = 0.01f;
 
@@ -157,6 +159,9 @@ namespace StarterAssets
             // reset our timeouts on start
             _jumpTimeoutDelta = JumpTimeout;
             _fallTimeoutDelta = FallTimeout;
+
+            _trailRenderer = GetComponent<TrailRenderer>();
+            _trailRenderer.enabled = false;
         }
 
         private void Update()
@@ -400,6 +405,39 @@ namespace StarterAssets
         private void Cleanup()
         {
 
+        }
+        private IEnumerator ResetSpeedAfterDelay()
+        {
+            yield return new WaitForSeconds(10.0f);
+            MoveSpeed /= 3;
+        }
+        public void ApplySpeedBoost()
+        {
+
+            MoveSpeed *= 3;
+            StartCoroutine(ResetSpeedAfterDelay());
+
+
+        }
+        public void ActivateTrail()
+        {
+            if (_trailRenderer != null)
+            {
+                _trailRenderer.enabled = true;
+                StartCoroutine(DeactivateTrailAfterDelay());
+            }
+        }
+        private IEnumerator DeactivateTrailAfterDelay()
+        {
+            yield return new WaitForSeconds(30.0f);
+            DeactivateTrail();
+        }
+        public void DeactivateTrail()
+        {
+            if (_trailRenderer != null)
+            {
+                _trailRenderer.enabled = false;
+            }
         }
     }
 }

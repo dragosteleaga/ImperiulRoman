@@ -21,3 +21,6 @@ In "Pisica Labirintului: Cautarea Mama Pisi," jucatorul este teleportat intr-un 
 6. Confruntare Epica: Scopul final al jocului este sa ajungi la o confruntare epica cu gladiatorul epic, care detine cheia pentru a gasi pisica mama. Aceasta lupta va testa abilitatile si obiectele magice colectate in labirint si va reprezenta apogeul aventurii.
 
 In "Pisica Labirintului: Cautarea Mama Pisi," jucatorii vor trebui sa ia decizii inteligente, sa exploreze cu atentie si sa se pregateasca pentru confruntari dificile pentru a ajunge la finalul labirintului si a gasi pisica mama.
+
+
+Centralizator echipe https://docs.google.com/spreadsheets/d/1N2wt3KE_dlT7YMBgRappqrxcXNt_lKaSXUJpqdVaX6s/edit#gid=1724072792
