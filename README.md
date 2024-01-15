@@ -2,25 +2,26 @@
 
 
 
-# Idea jocului: "Gladiator's Gauntlet"
+# Gladiator's Gauntlet
 
-In "Pisica Labirintului: Cautarea Mama Pisi," jucatorul este teleportat intr-un labirint masiv si misterios, plin de camere diferite, fiecare oferind provocari si oportunitati unice. Scopul jocului este de a gasi pisica mama, care detine puteri magice, si pentru asta, jucatorul trebuie sa exploreze labirintul, sa interactioneze cu NPC-urile si sa colecteze obiecte magice.
+# Descriere Joc
+Bun venit în lumea gladiatorilor din Imperiul Roman! Pășește într-un labirint periculos, însoțit de un pui de pisică adorabil. Misiunea ta este să găsești pisica mama, răpită de forțe necunoscute, și să îți recuperezi puiul în siguranță.
 
-#Mecanica jocului:
+# Caracteristici Principale
+Labirintul Roman
+Explorează un labirint vast și complicat în inima Romei antice, plin de provocări și primejdii. Fiecare colț ascunde secrete și pericole, dar și întâlniri cu NPC-uri care îți pot oferi ajutor sau provocări.
 
-1. Labirintul Interactiv: Labirintul este vast si plin de camere variate, de la incaperi cu gladiatori rai pana la locuri cu lei obraznici sau negustori. Fiecare camera ofera o provocare unica si oportunitati de a colecta obiecte magice sau a interactiona cu NPC-urile.
+# Partenerul de Nădejde
+Puiul de pisică nu este doar o mascota adorabilă, ci și un partener de nădejde. Alege să-l antrenezi și să-l dezvolți pentru a face față provocărilor din labirint.
 
-2. Collectables Magice: Pe masura ce jucatorul progreseaza, acesta poate colecta obiecte magice, cum ar fi puteri care ofera viteza, viziune sporita, crestere a puterii de atac, a puterii magice, potiuni de teleportare, vindecare, sau chiar noi spell-uri (foc/gheata). Aceste obiecte magice sunt esentiale pentru a face fata provocarilor din labirint.
+# Întâlniri cu NPC-uri
+Pe măsură ce progresezi, vei întâlni NPC-uri cu diverse cunoștințe despre Imperiul Roman. Răspunde la întrebările lor corect pentru a câștiga "banuți" - monedă magică ce te va ajuta să deblochezi abilități speciale.
 
-3. NPC-uri Variate: Jucatorul va interactiona cu diferiti NPC-uri, cum ar fi gladiatori rai, lei obraznici, indrumatori buni sau rai, si negustori. Aceste interactiuni pot duce la achizitionarea de obiecte magice, informatii utile sau provocari cu recompense tentante.
+# Banuții Magici
+Strânge trei "banuți" pentru a alege o abilitate magică. Acestea pot varia de la îmbunătățiri fizice până la abilități speciale ce îți pot ușura călătoria sau te pot ajuta să rezolvi provocările.
 
-4. Statistici Personaj: Jucatorul va avea un set de statistici personaj, cum ar fi HP, mana, inventarul pentru obiecte magice, bani, noroc si sansa critica. Statisticile vor influenta abilitatile si rezultatele confruntarilor din labirint.
-
-5. Puii de Pisica: Pe parcursul jocului, jucatorul va putea gasi si colecta pui de pisici, fiecare fiind un talisman cu puteri unice. Aceste talismane pot oferi avantaje precum mai mult noroc, sansa critica crescuta, mai multi bani, mai multa viata sau spell-uri suplimentare.
-
-6. Confruntare Epica: Scopul final al jocului este sa ajungi la o confruntare epica cu gladiatorul epic, care detine cheia pentru a gasi pisica mama. Aceasta lupta va testa abilitatile si obiectele magice colectate in labirint si va reprezenta apogeul aventurii.
-
-In "Pisica Labirintului: Cautarea Mama Pisi," jucatorii vor trebui sa ia decizii inteligente, sa exploreze cu atentie si sa se pregateasca pentru confruntari dificile pentru a ajunge la finalul labirintului si a gasi pisica mama.
+# Obiectiv Final
+Găsește pisica mama și adu-ți puiul înapoi în siguranță, înfruntând provocările labirintului și devenind un erou în inima Imperiului Roman. Succes, gladiatore!
 
 
 Centralizator echipe https://docs.google.com/spreadsheets/d/1N2wt3KE_dlT7YMBgRappqrxcXNt_lKaSXUJpqdVaX6s/edit#gid=1724072792
